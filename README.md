@@ -48,3 +48,4 @@ VAR Diferencia = [Total Ventas] - VentasLY
 RETURN
     DIVIDE(Diferencia, VentasLY, 0)
   <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1fb102dc-4651-426d-b147-dfde9c8cfafc" />
+ 
